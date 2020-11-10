@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I’m an Android engineer currently working for [Chaos Control](https://chaos-control.mobi/)
+
+- ✍️ [My personal blog](https://ukhamitov.com/)
+- 📩 You can contact me [by mail](mailto:ukhamitov@gmail.com)
+
 <!--
 **ukhamitov/ukhamitov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
