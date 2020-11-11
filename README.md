@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m an Android engineer currently working for [Chaos Control](https://chaos-control.mobi/)
+I’m an Android engineer currently working for Chaos Control.
 
 - ✍️ [My personal blog](https://ukhamitov.com/)
 - 📩 You can contact me [by mail](mailto:ukhamitov@gmail.com)
