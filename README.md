@@ -10,11 +10,16 @@ I’m an Android engineer currently working for Chaos Control.
 - Android 13
 
 ## 📱 Devices in use
-- Apple Macbook Pro 16" 2019 (i7, 16Gb RAM, 512Gb)<br>
+- Apple Macbook Pro 16" 2019 (6-core i7, 16Gb RAM, 512Gb SSD, 5300M 4Gb)<br>
 - Apple iPad Pro 11" 2018 (WiFi, 64Gb) + Apple Pencil 2 + Apple Keyboard Folio
 - Google Pixel 6 (Sorta Seafoam, 128Gb)
 - Google Pixel Buds Pro (Charcoal)
 - Raspberry Pi 3 Model B
+
+## 🎮 Gaming consoles
+- Xbox Series X
+- Nintendo Switch
+- Nintendo 3DS
 
 ## 📫 Get in touch
 [My personal blog](https://ukhamitov.com/)<br />
