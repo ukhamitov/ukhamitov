@@ -3,14 +3,16 @@
 I’m an Android engineer currently working for Chaos Control.
 
 ## 🤔 What I'm doing
-- Learning C / C++ / C# / Java / Kotlin / Swift / Python
+- Learning Kotlin / Java / Dart / C# / Swift / C / C++
 
 ## 💻 Working environment
 - macOS Ventura
+- Chrome OS 112
 - Android 13
 
 ## 📱 Devices in use
-- Apple Macbook Pro 16" 2019 (6-core i7, 16Gb RAM, 512Gb SSD, 5300M 4Gb)<br>
+- Apple Macbook Pro 16" 2019 (6-core i7, 16Gb RAM, 512Gb SSD, 5300M 4Gb)
+- Google Pixelbook 2017 (2-core i7, 16Gb RAM, 512Gb SSD)
 - Apple iPad Pro 11" 2018 (WiFi, 64Gb) + Apple Pencil 2 + Apple Keyboard Folio
 - Google Pixel 6 (Sorta Seafoam, 128Gb)
 - Google Pixel Buds Pro (Charcoal)
@@ -18,6 +20,7 @@ I’m an Android engineer currently working for Chaos Control.
 
 ## 🎮 Gaming consoles
 - Xbox Series X
+- Steam Deck
 - Nintendo Switch
 - Nintendo 3DS
 
