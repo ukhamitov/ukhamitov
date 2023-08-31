@@ -7,14 +7,15 @@ I’m an Android engineer currently working for Chaos Control.
 
 ## 💻 Working environment
 - macOS Ventura
-- Chrome OS 112
+- Chrome OS
 - Android 13
 
 ## 📱 Devices in use
 - Apple Macbook Pro 16" 2019 (6-core i7, 16Gb RAM, 512Gb SSD, 5300M 4Gb)
 - Google Pixelbook 2017 (2-core i7, 16Gb RAM, 512Gb SSD)
 - Apple iPad Pro 11" 2018 (WiFi, 64Gb) + Apple Pencil 2 + Apple Keyboard Folio
-- Google Pixel 6 (Sorta Seafoam, 128Gb)
+- ~~Google Pixel 6 (Sorta Seafoam, 128Gb)~~ hardbricked to EDL, can't unbrick yet
+- Google Pixel 7 Pro (Obsidian, 128Gb)
 - Google Pixel Buds Pro (Charcoal)
 - Raspberry Pi 3 Model B
 
@@ -23,6 +24,9 @@ I’m an Android engineer currently working for Chaos Control.
 - Steam Deck
 - Nintendo Switch
 - Nintendo 3DS
+
+- 🌱 I’m currently learning ...
+- Finnish
 
 ## 📫 Get in touch
 [My personal blog](https://ukhamitov.com/)<br />
@@ -36,7 +40,6 @@ I’m an Android engineer currently working for Chaos Control.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
