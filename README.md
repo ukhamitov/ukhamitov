@@ -25,7 +25,7 @@ I’m an Android engineer currently working for Chaos Control.
 - Nintendo Switch
 - Nintendo 3DS
 
-- 🌱 I’m currently learning ...
+## 🌱 I’m currently learning ...
 - Finnish
 
 ## 📫 Get in touch
