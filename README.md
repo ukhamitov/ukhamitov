@@ -6,9 +6,9 @@ I’m an Android engineer currently working for Chaos Control.
 - Learning Kotlin / Java / Dart / C# / Swift / C / C++
 
 ## 💻 Working environment
-- macOS Ventura
+- macOS Sonoma
 - Chrome OS
-- Android 13
+- Android 14
 
 ## 📱 Devices in use
 - Apple Macbook Pro 16" 2019 (6-core i7, 16Gb RAM, 512Gb SSD, 5300M 4Gb)
