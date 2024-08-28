@@ -8,7 +8,7 @@ I’m an Android engineer currently working for Chaos Control.
 ## 💻 Working environment
 - macOS Sonoma
 - Chrome OS
-- Android 14
+- Android 15
 
 ## 📱 Devices in use
 - Apple Macbook Pro 16" 2019 (6-core i7, 16Gb RAM, 512Gb SSD, 5300M 4Gb)
