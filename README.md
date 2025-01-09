@@ -6,7 +6,7 @@ I’m an Android engineer currently working for Chaos Control.
 - Learning Kotlin / Java / Dart / C# / Swift / C / C++
 
 ## 💻 Working environment
-- macOS Sonoma
+- macOS Sequoia
 - Chrome OS
 - Android 15
 
