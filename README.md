@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m an Android engineer currently working for Chaos Control.
+I’m an Android (Kotlin/Java) and Flutter (Dart/Kotlin/Swift) engineer currently working for Chaos Control.
 
 ## 🤔 What I'm doing
 - Learning Kotlin / Java / Dart / C# / Swift / C / C++
@@ -8,7 +8,7 @@ I’m an Android engineer currently working for Chaos Control.
 ## 💻 Working environment
 - macOS Sequoia
 - Chrome OS
-- Android 15
+- Android 16
 
 ## 📱 Devices in use
 - Apple Macbook Pro 16" 2019 (6-core i7, 16Gb RAM, 512Gb SSD, 5300M 4Gb)
@@ -17,6 +17,7 @@ I’m an Android engineer currently working for Chaos Control.
 - Google Pixelbook 2017 (2-core i7, 16Gb RAM, 512Gb SSD)
 - Google Pixel 7 Pro (Obsidian, 128Gb)
 - Google Pixel Buds Pro (Charcoal)
+- CMF Buds Pro 2 (Orange)
 - Raspberry Pi 3 Model B
 
 ## 🎮 Gaming consoles
