@@ -8,7 +8,7 @@ I’m an Android (Kotlin/Java) and Flutter (Dart/Kotlin/Swift) engineer currentl
 ## 💻 Working environment
 - macOS Sequoia
 - Chrome OS
-- Android 16
+- Android 17
 
 ## 📱 Devices in use
 - Apple Macbook Pro 16" 2019 (6-core i7, 16Gb RAM, 512Gb SSD, 5300M 4Gb)
