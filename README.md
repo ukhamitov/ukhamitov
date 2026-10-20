@@ -6,11 +6,12 @@ I’m an Android (Kotlin/Java) and Flutter (Dart/Kotlin/Swift) engineer currentl
 - Learning Kotlin / Java / Dart / C# / Swift / C / C++
 
 ## 💻 Working environment
-- macOS Sequoia
+- macOS Golden Gate
 - Chrome OS
 - Android 17
 
 ## 📱 Devices in use
+- Apple Macbook Pro 14" 2026 (18-core CPU, 36Gb RAM, 2TB SSD, 32-core GPU)
 - Apple Macbook Pro 16" 2019 (6-core i7, 16Gb RAM, 512Gb SSD, 5300M 4Gb)
 - Apple iPad Pro 11" 2018 (WiFi, 64Gb) + Apple Pencil 2 + Apple Keyboard Folio
 - Google Pixelbook 2017 (2-core i7, 16Gb RAM, 512Gb SSD)
